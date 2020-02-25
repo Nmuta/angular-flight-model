@@ -6,5 +6,13 @@ import { Flight } from './flight';
 })
 export class FlightsService {
 
+
+
   constructor() { }
+
+  getFlights() {
+     
+  }
+
 }
+
